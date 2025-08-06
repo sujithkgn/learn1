@@ -1,0 +1,14 @@
+Give me a detailed explanation on each topic the following topics in Git & Gitlab Syllabus
+
+What is Git and Gitlab? 
+ History of Git 
+ Design Principles 
+ Distributed Version Control 
+Installing Git 
+ Account Setup 
+ Installing Source tree Git GUI 
+Git File Management 
+ Common Git Commands 
+ Configuring Git 
+ Creating Repositories 
+ Creating a Commit 
