@@ -5,6 +5,13 @@ C
 	Operators in C
 	Datatypes in C
 C++
+	OOPS Concepts
+	Friend Functions
+	Static Members and Classes
+	Function Overloading
+	Operator Overloading
+	Constructors & Destructors
+	Inheritance
 Java
 Oracle
 VB
