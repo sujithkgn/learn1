@@ -1,4 +1,9 @@
 C
+	Computer Systems
+	Programming Concepts
+	Introduction to C
+	Operators in C
+	Datatypes in C
 C++
 Java
 Oracle
