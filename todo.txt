@@ -7,8 +7,4 @@ What is Git and Gitlab?
 Installing Git 
  Account Setup 
  Installing Source tree Git GUI 
-Git File Management 
- Common Git Commands 
- Configuring Git 
- Creating Repositories 
- Creating a Commit 
+
